@@ -1,2 +1,2 @@
-# automation-scripts
-Automated scripts for my daily tasks
+# Automation-scripts
+Automation projects to save time and manual efforts. 
